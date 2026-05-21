@@ -5,3 +5,6 @@
 3. (a) Sum of all the stuffs --> count all the possible ways
    (b) Min(of all the stuffs) --> find min
    (c) Max(of all the stuffs) --> find max
+
+
+### The climbing stairs problem is similar to the Fibonacci series
